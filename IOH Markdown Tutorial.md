@@ -292,12 +292,12 @@ Markdown 中支援直接使用Html tag，如果想要學習使用Html做出更�
 輸入
 
 ```
-This is <em><span style='color: green;'>green</span></em>.
+first line <br> second line <br> third line
 ```
 
 得到
 
-This is <em><span style='color: green;'>green</span></em>.
+first line <br> second line <br> third line
 
 ## Reference
 

@@ -289,6 +289,16 @@ _   底線
 
 Markdown 中支援直接使用Html tag，如果想要學習使用Html做出更多效果，可以參考[codecademy](codecademy.com)或是[w3school](http://www.w3schools.com/)。
 
+輸入
+
+```
+This is <em><span style='color: green;'>green</span></em>.
+```
+
+得到
+
+This is <em><span style='color: green;'>green</span></em>.
+
 ## Reference
 
 以下為參考資料：

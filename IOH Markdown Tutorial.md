@@ -268,11 +268,33 @@ row1   | row2   | row3
 
 ### 跳脫字元
 
+因為語法中很多符號是有特殊意義的，但如果你想要顯示符號本身的話，必須前面加上反斜線`\`，以下是特殊符號的列表：
+
+```
+\   反斜線
+`   反引號
+*   星號
+_   底線
+{}  大括號
+[]  方括號
+()  括號
+#   井字號
++   加號
+-   減號
+.   英文句點
+!   驚嘆號
+```
+
 ### Html Support
+
+Markdown 中支援直接使用Html tag，如果想要學習使用Html做出更多效果，可以參考[codecademy](codecademy.com)或是[w3school](http://www.w3schools.com/)。
 
 ## Reference
 
-> 學習資源 <http://www.markdown-tutorial.com>
+以下為參考資料：
+> <https://github.com/othree/markdown-syntax-zhtw>  
+> <https://guides.github.com/features/mastering-markdown/>  
+> <http://www.markdown-tutorial.com>
 
 
 
